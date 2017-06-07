@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on @GrandomThoughts</title>
-    <link>https://graysonwalters.com/post/</link>
+    <link>https://grandomthoughts.github.io/post/</link>
     <description>Recent content in Posts on @GrandomThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>New site; Oooh, Shiny</title>
-      <link>https://graysonwalters.com/post/self_newsite/</link>
+      <link>https://grandomthoughts.github.io/post/self_newsite/</link>
       <pubDate>Tue, 06 Jun 2017 13:25:50 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/self_newsite/</guid>
+      <guid>https://grandomthoughts.github.io/post/self_newsite/</guid>
       <description>
 
 &lt;h2 id=&#34;i-ve-updated-the-site&#34;&gt;I&amp;rsquo;ve updated the site.&lt;/h2&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>Announcing Google Capture the Flag 2017</title>
-      <link>https://graysonwalters.com/post/google_ctf-2017/</link>
+      <link>https://grandomthoughts.github.io/post/google_ctf-2017/</link>
       <pubDate>Tue, 06 Jun 2017 11:07:34 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/google_ctf-2017/</guid>
+      <guid>https://grandomthoughts.github.io/post/google_ctf-2017/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>POLICY ON FOOD PROVISIONING AT MEETINGS</title>
-      <link>https://graysonwalters.com/post/texas_securitypolicy/</link>
+      <link>https://grandomthoughts.github.io/post/texas_securitypolicy/</link>
       <pubDate>Tue, 06 Jun 2017 00:05:53 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/texas_securitypolicy/</guid>
+      <guid>https://grandomthoughts.github.io/post/texas_securitypolicy/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -90,10 +90,10 @@ Therefore, it is the policy of the Information Security Office that all meetings
     
     <item>
       <title>Errata Security - How to track that annoying pop-up</title>
-      <link>https://graysonwalters.com/post/errata_security_sysmon/</link>
+      <link>https://grandomthoughts.github.io/post/errata_security_sysmon/</link>
       <pubDate>Sat, 03 Jun 2017 10:33:50 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/errata_security_sysmon/</guid>
+      <guid>https://grandomthoughts.github.io/post/errata_security_sysmon/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -118,10 +118,10 @@ Therefore, it is the policy of the Information Security Office that all meetings
     
     <item>
       <title>Blackhat Arsenal Tools</title>
-      <link>https://graysonwalters.com/post/blackhat_arsenal/</link>
+      <link>https://grandomthoughts.github.io/post/blackhat_arsenal/</link>
       <pubDate>Fri, 02 Jun 2017 15:54:36 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/blackhat_arsenal/</guid>
+      <guid>https://grandomthoughts.github.io/post/blackhat_arsenal/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -149,10 +149,10 @@ Most of the selected tools are already present on GitHub and some are yet to be 
     
     <item>
       <title>SwiftonSecurity - sysmon-config</title>
-      <link>https://graysonwalters.com/post/swiftonsecurity_sysmon-config/</link>
+      <link>https://grandomthoughts.github.io/post/swiftonsecurity_sysmon-config/</link>
       <pubDate>Mon, 22 May 2017 10:57:18 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/swiftonsecurity_sysmon-config/</guid>
+      <guid>https://grandomthoughts.github.io/post/swiftonsecurity_sysmon-config/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -179,10 +179,10 @@ Most of the selected tools are already present on GitHub and some are yet to be 
     
     <item>
       <title>Mark Russinovich - Tracking Hackers on Your Network with Sysinternals Sysmon</title>
-      <link>https://graysonwalters.com/post/markrussinovich_sysmon/</link>
+      <link>https://grandomthoughts.github.io/post/markrussinovich_sysmon/</link>
       <pubDate>Sat, 12 Mar 2016 13:10:14 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/markrussinovich_sysmon/</guid>
+      <guid>https://grandomthoughts.github.io/post/markrussinovich_sysmon/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
