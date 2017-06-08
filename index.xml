@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@GrandomThoughts</title>
+    <link>https://graysonwalters.com/</link>
+    <description>Recent content on @GrandomThoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016-2017 Grayson Walters..</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://graysonwalters.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://graysonwalters.com/home/heading/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/home/heading/</guid>
+      <description>This is mostly a place for me to keep all of my things together, but hopefully you can get some value out of it as well. Some things you will find on this site:
+ Publications from projects with which, I&amp;rsquo;ve been involved. Projects that I worked on. Talks - Slides and details from my speaking engagements Posts that are mostly interesting content from around the tubes that I wanted to keep long term.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://graysonwalters.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaking Engagements</title>
+      <link>https://graysonwalters.com/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://graysonwalters.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://graysonwalters.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://graysonwalters.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/home/about/</guid>
+      <description>Biography Grayson Walters has over 20 years of Information Technology and Information Security experience. Currently, he serves as the Information Security Officer for the Virginia Department of Taxation. Previously, Grayson served as the Information Security Officer for the Virginia State Corporation Commission. His prior positions include leading the security engineering branch of a Richmond based IT consulting firm where he oversaw penetration testing, security policy development and security product implementation activities for dozens of clients.</description>
+    </item>
+    
+    <item>
+      <title>Reading List!</title>
+      <link>https://graysonwalters.com/home/reading/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/home/reading/</guid>
+      <description>Here is a collection of sources that I found to be worth the time to check out. If I see a good post somewhere, it lands in the post section, regardless of where I found it. If I start seeing a bunch of good posts, I will put the parent site here when I get around to it&amp;hellip;
+ Infosec Sites  https://tisiphone.net/ &amp;ndash; @hacks4pancakes &amp;ndash; Lesley Carhart https://danielmiessler.com/ &amp;ndash; @danielmiessler &amp;ndash; Daniel Miessler   </description>
+    </item>
+    
+    <item>
+      <title>Pentest on a Shoestring Budget</title>
+      <link>https://graysonwalters.com/talk/pentestonashoestring/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/talk/pentestonashoestring/</guid>
+      <description>Slides to be posted after conference.</description>
+    </item>
+    
+    <item>
+      <title>New site; Oooh, Shiny</title>
+      <link>https://graysonwalters.com/post/self_newsite/</link>
+      <pubDate>Tue, 06 Jun 2017 13:25:50 -0400</pubDate>
+      
+      <guid>https://graysonwalters.com/post/self_newsite/</guid>
+      <description>I&amp;rsquo;ve updated the site. So, look, the old site was a ton of work to manage, and I don&amp;rsquo;t even think my mom was reading it. At any rate, I recently saw a few mentions of Hugo. I finally took the time to dig into it, and I really like the way it works. Basically, it is a static site generator. No more php. No more fiddly cms to deal with.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Google Capture the Flag 2017</title>
+      <link>https://graysonwalters.com/post/google_ctf-2017/</link>
+      <pubDate>Tue, 06 Jun 2017 11:07:34 -0400</pubDate>
+      
+      <guid>https://graysonwalters.com/post/google_ctf-2017/</guid>
+      <description>My take - Google is spinning up their CTF again this year. I found it interesting that of the 2,400 teams that competed last year, 1,500 were unable to solve a single challenge. From the article:
+ &amp;ldquo;Announcing Google Capture the Flag 2017 On 00:00:01 UTC of June 17th and 18th, 2017 we’ll be hosting the online qualification round of our second annual Capture The Flag (CTF) competition. In a ‘Capture the Flag’ competition we create security challenges and puzzles in which contestants can earn points for solving them&amp;hellip;&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>POLICY ON FOOD PROVISIONING AT MEETINGS</title>
+      <link>https://graysonwalters.com/post/texas_securitypolicy/</link>
+      <pubDate>Tue, 06 Jun 2017 00:05:53 -0400</pubDate>
+      
+      <guid>https://graysonwalters.com/post/texas_securitypolicy/</guid>
+      <description>My take - FINALLY a security policy that actually addresses an actionable and truly important effort. From the article:
+ &amp;ldquo;POLICY ON FOOD PROVISIONING AT MEETINGS RATIONALE Experts and decades of research have confirmed the importance of proper nutrition and hydration in promoting cognitive function. Therefore, it is the policy of the Information Security Office that all meetings must include adequate nourishment for each participant&amp;hellip;&amp;rdquo;
+ Credit: Like 25 people posted it in my twitter feed.</description>
+    </item>
+    
+    <item>
+      <title>Errata Security - How to track that annoying pop-up</title>
+      <link>https://graysonwalters.com/post/errata_security_sysmon/</link>
+      <pubDate>Sat, 03 Jun 2017 10:33:50 -0400</pubDate>
+      
+      <guid>https://graysonwalters.com/post/errata_security_sysmon/</guid>
+      <description>My take - Rob at Errata Sec did a concise job of showing how to use sysmon to track down a weird pop-up. This one came from MS Office update. He uses the @SwiftonSecurity sysmon-config that I posted about recently. From the article:
+ &amp;ldquo;How to track that annoying pop-up In a recent update to their Office suite on Windows, Microsoft made a mistake where every hour, for a fraction of a second, a black window pops up on the screen.</description>
+    </item>
+    
+    <item>
+      <title>Blackhat Arsenal Tools</title>
+      <link>https://graysonwalters.com/post/blackhat_arsenal/</link>
+      <pubDate>Fri, 02 Jun 2017 15:54:36 -0400</pubDate>
+      
+      <guid>https://graysonwalters.com/post/blackhat_arsenal/</guid>
+      <description>My take - @hackwithgithub is posting an updated list of GitHub repositories as they are uploaded based on the tools that are being featured in the Blackhat Arsenal.  &amp;ldquo;Black Hat Arsenal USA 2017 On June 1, 2017 @toolswatch announced the tools selected for Black Hat Arsenal USA 2017. Most of the selected tools are already present on GitHub and some are yet to be uploaded. This article contains the links to their respective repositories.</description>
+    </item>
+    
+    <item>
+      <title>SwiftonSecurity - sysmon-config</title>
+      <link>https://graysonwalters.com/post/swiftonsecurity_sysmon-config/</link>
+      <pubDate>Mon, 22 May 2017 10:57:18 -0400</pubDate>
+      
+      <guid>https://graysonwalters.com/post/swiftonsecurity_sysmon-config/</guid>
+      <description>My take - @SwiftonSecurity released a config file for sysmon to help cut through the clutter. There is a steep learning curve with sysmon, so I wouldn&amp;rsquo;t recommend blindly applying this, but it definitely is a good starting point. I&amp;rsquo;ve also included a link below to Lennart Koopmann&amp;rsquo;s take on the config, which explains it a little more. From the article:
+ &amp;ldquo;sysmon-config | A Sysmon configuration file for everybody to fork This is a Microsoft Sysinternals Sysmon configuration file template with default high-quality event tracing.</description>
+    </item>
+    
+    <item>
+      <title>Cyberthreat Recognition &amp; Mitigation</title>
+      <link>https://graysonwalters.com/publication/cyberthreat/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/publication/cyberthreat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Leaders Panel</title>
+      <link>https://graysonwalters.com/talk/covinfosec2016/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/talk/covinfosec2016/</guid>
+      <description>This was a panel with a handful of ISOs from Commonwealth Agencies addressing the current concerns and efforts that make up public sector security. No slides were used.</description>
+    </item>
+    
+    <item>
+      <title>Mark Russinovich - Tracking Hackers on Your Network with Sysinternals Sysmon</title>
+      <link>https://graysonwalters.com/post/markrussinovich_sysmon/</link>
+      <pubDate>Sat, 12 Mar 2016 13:10:14 -0400</pubDate>
+      
+      <guid>https://graysonwalters.com/post/markrussinovich_sysmon/</guid>
+      <description>My take - @MarkRussinovich did a very good presentation at RSAC covering the use of Sysmon to hunt hackers on your network. From the article:
+ &amp;ldquo;Windows Forensic Monitoring Limitations -  When attackers or malware get on your network, you need to  construct a timeline What was the entry point? Did it spread between systems? What happened on a particular system?  Built-in Windows tooling make it hard to answer these questions:  Limited information captured for process creates and DLL loading Network connection information simultaneously too limited and verbose No way to capture common attacker behavior (e.</description>
+    </item>
+    
+    <item>
+      <title>The “New Norm” in Cyber Security: What’s Trending Now in Public Sector</title>
+      <link>https://graysonwalters.com/talk/newnorm/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/talk/newnorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Cyber Threats</title>
+      <link>https://graysonwalters.com/publication/understandingcyberthreats/</link>
+      <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/publication/understandingcyberthreats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligence Community Analyst Private Sector Partnership</title>
+      <link>https://graysonwalters.com/project/icanalyst/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/project/icanalyst/</guid>
+      <description>This program enables intelligence community analysts and private sector partners to gain a greater understanding of how their disparate, yet complementary, roles can work in tandem to ensure mission success. The public-private teams collaborate for six months to work on unclassified analytic deliverables of interest to the IC and private sector. Federal as well as State, Local, Tribal, and Territorial analysts and private sector analysts apply on a volunteer basis to participate in this effort.</description>
+    </item>
+    
+    <item>
+      <title>Emerging Threats</title>
+      <link>https://graysonwalters.com/talk/vcurisc2012/</link>
+      <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwalters.com/talk/vcurisc2012/</guid>
+      <description>&amp;ldquo;Virginia Commonwealth University School of Business hosts its sixth annual Risk and Insurance Studies Center Conference, 7:30 a.m., Snead Hall, 301 W. Main St. Jeff Yates, executive director of the Agents Council for Technology, will speak on &amp;ldquo;New Technologies Drive Changes in the Insurance Industry;&amp;rdquo; Chris Tignor, chief information security officer, Capital One Financial Corp., will speak about &amp;ldquo;Protecting Against the Evolving Cyber Threat.&amp;rdquo; Panel: Alex Ricardo, privacy director for the Beazley Breach Response Programs, The Beazley Group (&amp;ldquo;Breach Crisis Management&amp;rdquo;); Bryan Tierney, regional underwriting manager for executive liability, Chartis (&amp;ldquo;Social Media Revolution&amp;rdquo;); and Grayson Walters, information security officer, the Virginia State Corporation Commission (&amp;ldquo;Emerging Threats&amp;rdquo;).</description>
+    </item>
+    
+  </channel>
+</rss>
