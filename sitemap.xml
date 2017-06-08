@@ -1,355 +1,249 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/talk/pentestonashoestring/</loc>
-      <lastmod>2017-06-09T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/home/heading/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/post/self_newsite/</loc>
-      <lastmod>2017-06-06T13:25:50-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/home/posts/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/post/google_ctf-2017/</loc>
-      <lastmod>2017-06-06T11:07:34-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/home/talks/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/post/texas_securitypolicy/</loc>
-      <lastmod>2017-06-06T00:05:53-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/post/errata_security_sysmon/</loc>
-      <lastmod>2017-06-03T10:33:50-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/home/publications/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/post/blackhat_arsenal/</loc>
-      <lastmod>2017-06-02T15:54:36-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/post/swiftonsecurity_sysmon-config/</loc>
-      <lastmod>2017-05-22T10:57:18-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/home/reading/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/talk/pentestonashoestring/</loc>
+    <lastmod>2017-06-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/post/self_newsite/</loc>
+    <lastmod>2017-06-06T13:25:50-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/post/google_ctf-2017/</loc>
+    <lastmod>2017-06-06T11:07:34-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/post/texas_securitypolicy/</loc>
+    <lastmod>2017-06-06T00:05:53-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/publication/cyberthreat/</loc>
-      <lastmod>2016-09-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/post/errata_security_sysmon/</loc>
+    <lastmod>2017-06-03T10:33:50-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/talk/covinfosec2016/</loc>
-      <lastmod>2016-04-08T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/post/blackhat_arsenal/</loc>
+    <lastmod>2017-06-02T15:54:36-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/post/markrussinovich_sysmon/</loc>
-      <lastmod>2016-03-12T13:10:14-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/post/swiftonsecurity_sysmon-config/</loc>
+    <lastmod>2017-05-22T10:57:18-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/talk/newnorm/</loc>
-      <lastmod>2015-11-16T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/tags/academic/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/publication/understandingcyberthreats/</loc>
-      <lastmod>2014-10-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/post/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/project/icanalyst/</loc>
-      <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/talk/vcurisc2012/</loc>
-      <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/talk/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/publication_types/1/</loc>
-      <lastmod>2016-09-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/publication/cyberthreat/</loc>
+    <lastmod>2016-09-14T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/talk/covinfosec2016/</loc>
+    <lastmod>2016-04-08T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/analysis/</loc>
-      <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/post/markrussinovich_sysmon/</loc>
+    <lastmod>2016-03-12T13:10:14-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/blackhat/</loc>
-      <lastmod>2017-06-02T15:54:36-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/talk/newnorm/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/blue-team/</loc>
-      <lastmod>2017-06-03T10:33:50-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/publication/understandingcyberthreats/</loc>
+    <lastmod>2014-10-24T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/project/icanalyst/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/ctf/</loc>
-      <lastmod>2017-06-06T11:07:34-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/talk/vcurisc2012/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/hacking/</loc>
-      <lastmod>2017-06-02T15:54:36-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/publication_types/1/</loc>
+    <lastmod>2016-09-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/hugo/</loc>
-      <lastmod>2017-06-06T13:25:50-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/hunting/</loc>
-      <lastmod>2017-06-03T10:33:50-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/tags/analysis/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/ic/</loc>
-      <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/tags/blackhat/</loc>
+    <lastmod>2017-06-02T15:54:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/investigation/</loc>
-      <lastmod>2017-06-03T10:33:50-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/tags/blue-team/</loc>
+    <lastmod>2017-06-03T10:33:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/project/</loc>
-      <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/categories/</loc>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/publication_types/</loc>
-      <lastmod>2016-09-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/tags/ctf/</loc>
+    <lastmod>2017-06-06T11:07:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/satire/</loc>
-      <lastmod>2017-06-06T00:05:53-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/tags/hacking/</loc>
+    <lastmod>2017-06-02T15:54:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/sysmon/</loc>
-      <lastmod>2017-06-03T10:33:50-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/home/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/tags/hugo/</loc>
+    <lastmod>2017-06-06T13:25:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/this-site/</loc>
-      <lastmod>2017-06-06T13:25:50-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/tags/hunting/</loc>
+    <lastmod>2017-06-03T10:33:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://grandomthoughts.github.io/tags/tools/</loc>
-      <lastmod>2017-06-02T15:54:36-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://graysonwalters.com/tags/ic/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://graysonwalters.com/tags/investigation/</loc>
+    <lastmod>2017-06-03T10:33:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://graysonwalters.com/project/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://graysonwalters.com/publication_types/</loc>
+    <lastmod>2016-09-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://graysonwalters.com/tags/satire/</loc>
+    <lastmod>2017-06-06T00:05:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://graysonwalters.com/tags/sysmon/</loc>
+    <lastmod>2017-06-03T10:33:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://graysonwalters.com/tags/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://graysonwalters.com/tags/this-site/</loc>
+    <lastmod>2017-06-06T13:25:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://graysonwalters.com/tags/tools/</loc>
+    <lastmod>2017-06-02T15:54:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
 </urlset>

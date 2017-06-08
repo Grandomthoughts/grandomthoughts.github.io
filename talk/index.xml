@@ -2,59 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on @GrandomThoughts</title>
-    <link>https://grandomthoughts.github.io/talk/</link>
+    <link>http://graysonwalters.com/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on @GrandomThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2017 Grayson Walters</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://graysonwalters.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Pentest on a Shoestring Budget</title>
-      <link>https://grandomthoughts.github.io/talk/pentestonashoestring/</link>
+      <link>http://graysonwalters.com/talk/pentestonashoestring/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://grandomthoughts.github.io/talk/pentestonashoestring/</guid>
-      <description>&lt;p&gt;Slides to be posted after conference.&lt;/p&gt;
-</description>
+      <guid>http://graysonwalters.com/talk/pentestonashoestring/</guid>
+      <description>Slides to be posted after conference.</description>
     </item>
     
     <item>
       <title>Security Leaders Panel</title>
-      <link>https://grandomthoughts.github.io/talk/covinfosec2016/</link>
+      <link>http://graysonwalters.com/talk/covinfosec2016/</link>
       <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://grandomthoughts.github.io/talk/covinfosec2016/</guid>
-      <description>&lt;p&gt;This was a panel with a handful of ISOs from Commonwealth Agencies addressing the current concerns and efforts that make up public sector security.  No slides were used.&lt;/p&gt;
-</description>
+      <guid>http://graysonwalters.com/talk/covinfosec2016/</guid>
+      <description>This was a panel with a handful of ISOs from Commonwealth Agencies addressing the current concerns and efforts that make up public sector security. No slides were used.</description>
     </item>
     
     <item>
       <title>The “New Norm” in Cyber Security: What’s Trending Now in Public Sector</title>
-      <link>https://grandomthoughts.github.io/talk/newnorm/</link>
+      <link>http://graysonwalters.com/talk/newnorm/</link>
       <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://grandomthoughts.github.io/talk/newnorm/</guid>
+      <guid>http://graysonwalters.com/talk/newnorm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emerging Threats</title>
-      <link>https://grandomthoughts.github.io/talk/vcurisc2012/</link>
+      <link>http://graysonwalters.com/talk/vcurisc2012/</link>
       <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://grandomthoughts.github.io/talk/vcurisc2012/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;h2 id=&#34;virginia-commonwealth-university-school-of-business&#34;&gt;&amp;ldquo;Virginia Commonwealth University School of Business&lt;/h2&gt;
-
-&lt;p&gt;hosts its sixth annual Risk and Insurance Studies Center Conference, 7:30 a.m., Snead Hall, 301 W. Main St. Jeff Yates, executive director of the Agents Council for Technology, will speak on &amp;ldquo;New Technologies Drive Changes in the Insurance Industry;&amp;rdquo; Chris Tignor, chief information security officer, Capital One Financial Corp., will speak about &amp;ldquo;Protecting Against the Evolving Cyber Threat.&amp;rdquo; Panel: Alex Ricardo, privacy director for the Beazley Breach Response Programs, The Beazley Group (&amp;ldquo;Breach Crisis Management&amp;rdquo;); Bryan Tierney, regional underwriting manager for executive liability, Chartis (&amp;ldquo;Social Media Revolution&amp;rdquo;); and Grayson Walters, information security officer, the Virginia State Corporation Commission (&amp;ldquo;Emerging Threats&amp;rdquo;).&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There were slides, but they have been lost to antiquity.&lt;/p&gt;
-</description>
+      <guid>http://graysonwalters.com/talk/vcurisc2012/</guid>
+      <description>&amp;ldquo;Virginia Commonwealth University School of Business hosts its sixth annual Risk and Insurance Studies Center Conference, 7:30 a.m., Snead Hall, 301 W. Main St. Jeff Yates, executive director of the Agents Council for Technology, will speak on &amp;ldquo;New Technologies Drive Changes in the Insurance Industry;&amp;rdquo; Chris Tignor, chief information security officer, Capital One Financial Corp., will speak about &amp;ldquo;Protecting Against the Evolving Cyber Threat.&amp;rdquo; Panel: Alex Ricardo, privacy director for the Beazley Breach Response Programs, The Beazley Group (&amp;ldquo;Breach Crisis Management&amp;rdquo;); Bryan Tierney, regional underwriting manager for executive liability, Chartis (&amp;ldquo;Social Media Revolution&amp;rdquo;); and Grayson Walters, information security officer, the Virginia State Corporation Commission (&amp;ldquo;Emerging Threats&amp;rdquo;).</description>
     </item>
     
   </channel>

@@ -2,118 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hunting on @GrandomThoughts</title>
-    <link>https://grandomthoughts.github.io/tags/hunting/</link>
+    <link>http://graysonwalters.com/tags/hunting/</link>
     <description>Recent content in Hunting on @GrandomThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2017 Grayson Walters</copyright>
     <lastBuildDate>Sat, 03 Jun 2017 10:33:50 -0400</lastBuildDate>
-    <atom:link href="/tags/hunting/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://graysonwalters.com/tags/hunting/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Errata Security - How to track that annoying pop-up</title>
-      <link>https://grandomthoughts.github.io/post/errata_security_sysmon/</link>
+      <link>http://graysonwalters.com/post/errata_security_sysmon/</link>
       <pubDate>Sat, 03 Jun 2017 10:33:50 -0400</pubDate>
       
-      <guid>https://grandomthoughts.github.io/post/errata_security_sysmon/</guid>
-      <description>
-
-&lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
-
-&lt;h6 id=&#34;rob-at-errata-sec-did-a-concise-job-of-showing-how-to-use-sysmon-to-track-down-a-weird-pop-up-this-one-came-from-ms-office-update-he-uses-the-swiftonsecurity-sysmon-config-that-i-posted-about-recently&#34;&gt;Rob at Errata Sec did a concise job of showing how to use sysmon to track down a weird pop-up.  This one came from MS Office update.  He uses the @SwiftonSecurity sysmon-config that I posted about recently.&lt;/h6&gt;
-
-&lt;p&gt;From the article:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;h2 id=&#34;how-to-track-that-annoying-pop-up&#34;&gt;&amp;ldquo;How to track that annoying pop-up&lt;/h2&gt;
-
-&lt;p&gt;In a recent update to their Office suite on Windows, Microsoft made a mistake where every hour, for a fraction of a second,  a black window pops up on the screen. This leads many to fear their system has been infected by a virus. I thought I&amp;rsquo;d document how to track this down.&amp;ldquo;&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.erratasec.com/2017/06/how-to-track-that-annoying-pop-up.html&#34; target=&#34;_blank&#34;&gt;Original Article&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;related-posts&#34;&gt;Related Posts&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tags/sysmon/&#34; target=&#34;_blank&#34;&gt;Posts tagged sysmon&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://graysonwalters.com/post/errata_security_sysmon/</guid>
+      <description>My take - Rob at Errata Sec did a concise job of showing how to use sysmon to track down a weird pop-up. This one came from MS Office update. He uses the @SwiftonSecurity sysmon-config that I posted about recently. From the article:
+ &amp;ldquo;How to track that annoying pop-up In a recent update to their Office suite on Windows, Microsoft made a mistake where every hour, for a fraction of a second, a black window pops up on the screen.</description>
     </item>
     
     <item>
       <title>SwiftonSecurity - sysmon-config</title>
-      <link>https://grandomthoughts.github.io/post/swiftonsecurity_sysmon-config/</link>
+      <link>http://graysonwalters.com/post/swiftonsecurity_sysmon-config/</link>
       <pubDate>Mon, 22 May 2017 10:57:18 -0400</pubDate>
       
-      <guid>https://grandomthoughts.github.io/post/swiftonsecurity_sysmon-config/</guid>
-      <description>
-
-&lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
-
-&lt;h6 id=&#34;swiftonsecurity-https-twitter-com-swiftonsecurity-released-a-config-file-for-sysmon-to-help-cut-through-the-clutter-there-is-a-steep-learning-curve-with-sysmon-so-i-wouldn-t-recommend-blindly-applying-this-but-it-definitely-is-a-good-starting-point-i-ve-also-included-a-link-below-to-lennart-koopmann-s-take-on-the-config-which-explains-it-a-little-more&#34;&gt;&lt;a href=&#34;https://twitter.com/swiftonsecurity/&#34; target=&#34;_blank&#34;&gt;@SwiftonSecurity&lt;/a&gt; released a config file for sysmon to help cut through the clutter.  There is a steep learning curve with sysmon, so I wouldn&amp;rsquo;t recommend blindly applying this, but it definitely is a good starting point.  I&amp;rsquo;ve also included a link below to Lennart Koopmann&amp;rsquo;s take on the config, which explains it a little more.&lt;/h6&gt;
-
-&lt;p&gt;From the article:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;h2 id=&#34;sysmon-config-a-sysmon-configuration-file-for-everybody-to-fork&#34;&gt;&amp;ldquo;sysmon-config | A Sysmon configuration file for everybody to fork&lt;/h2&gt;
-
-&lt;p&gt;This is a Microsoft Sysinternals Sysmon configuration file template with default high-quality event tracing.  The file provided should function as a great starting point for system change monitoring in a self-contained package. This configuration and results should give you a good idea of what&amp;rsquo;s possible for Sysmon.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/swiftonsecurity/status/827693251910127616?lang=en&#34; target=&#34;_blank&#34;&gt;Original Article - SwiftonSecurity sysmon-config&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@lennartkoopmann/explaining-and-adapting-tays-sysmon-configuration-27d9719a89a8&#34; target=&#34;_blank&#34;&gt;Related Article - Lennart Koopmann on Medium.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;related-posts&#34;&gt;Related Posts&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tags/sysmon/&#34; target=&#34;_blank&#34;&gt;Posts tagged sysmon&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://graysonwalters.com/post/swiftonsecurity_sysmon-config/</guid>
+      <description>My take - @SwiftonSecurity released a config file for sysmon to help cut through the clutter. There is a steep learning curve with sysmon, so I wouldn&amp;rsquo;t recommend blindly applying this, but it definitely is a good starting point. I&amp;rsquo;ve also included a link below to Lennart Koopmann&amp;rsquo;s take on the config, which explains it a little more. From the article:
+ &amp;ldquo;sysmon-config | A Sysmon configuration file for everybody to fork This is a Microsoft Sysinternals Sysmon configuration file template with default high-quality event tracing.</description>
     </item>
     
     <item>
       <title>Mark Russinovich - Tracking Hackers on Your Network with Sysinternals Sysmon</title>
-      <link>https://grandomthoughts.github.io/post/markrussinovich_sysmon/</link>
+      <link>http://graysonwalters.com/post/markrussinovich_sysmon/</link>
       <pubDate>Sat, 12 Mar 2016 13:10:14 -0400</pubDate>
       
-      <guid>https://grandomthoughts.github.io/post/markrussinovich_sysmon/</guid>
-      <description>
-
-&lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
-
-&lt;h6 id=&#34;markrussinovich-https-twitter-com-markrussinovich-did-a-very-good-presentation-at-rsac-covering-the-use-of-sysmon-to-hunt-hackers-on-your-network&#34;&gt;&lt;a href=&#34;https://twitter.com/markrussinovich&#34; target=&#34;_blank&#34;&gt;@MarkRussinovich&lt;/a&gt; did a very good presentation at RSAC covering the use of Sysmon to hunt hackers on your network.&lt;/h6&gt;
-
-&lt;p&gt;From the article:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;h2 id=&#34;windows-forensic-monitoring-limitations&#34;&gt;&amp;ldquo;Windows Forensic Monitoring Limitations -&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;When attackers or malware get on your network, you need to
-
-&lt;ul&gt;
-&lt;li&gt;construct a timeline&lt;/li&gt;
-&lt;li&gt;What was the entry point?&lt;/li&gt;
-&lt;li&gt;Did it spread between systems?&lt;/li&gt;
-&lt;li&gt;What happened on a particular system?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Built-in Windows tooling make it hard to answer these questions:
-
-&lt;ul&gt;
-&lt;li&gt;Limited information captured for process creates and DLL loading&lt;/li&gt;
-&lt;li&gt;Network connection information simultaneously too limited and verbose&lt;/li&gt;
-&lt;li&gt;No way to capture common attacker behavior (e.g. thread injection)&amp;hellip;&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.rsaconference.com/writable/presentations/file_upload/hta-w05-tracking_hackers_on_your_network_with_sysinternals_sysmon.pdf&#34; target=&#34;_blank&#34;&gt;Original Article&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;related-site&#34;&gt;Related site&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blogs.technet.microsoft.com/motiba/2016/10/18/sysinternals-sysmon-unleashed/&#34; target=&#34;_blank&#34;&gt;Technet - Sysmon Unleashed&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;related-posts&#34;&gt;Related Posts&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tags/sysmon/&#34; target=&#34;_blank&#34;&gt;Posts tagged sysmon&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://graysonwalters.com/post/markrussinovich_sysmon/</guid>
+      <description>My take - @MarkRussinovich did a very good presentation at RSAC covering the use of Sysmon to hunt hackers on your network. From the article:
+ &amp;ldquo;Windows Forensic Monitoring Limitations -  When attackers or malware get on your network, you need to  construct a timeline What was the entry point? Did it spread between systems? What happened on a particular system?  Built-in Windows tooling make it hard to answer these questions:  Limited information captured for process creates and DLL loading Network connection information simultaneously too limited and verbose No way to capture common attacker behavior (e.</description>
     </item>
     
   </channel>

@@ -2,13 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on @GrandomThoughts</title>
-    <link>https://grandomthoughts.github.io/home/</link>
+    <link>http://graysonwalters.com/home/</link>
     <description>Recent content in Homes on @GrandomThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2017 Grayson Walters</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://graysonwalters.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://graysonwalters.com/home/heading/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://graysonwalters.com/home/heading/</guid>
+      <description>This is mostly a place for me to keep all of my things together, but hopefully you can get some value out of it as well. Some things you will find on this site:
+ Publications from projects with which, I&amp;rsquo;ve been involved. Projects that I worked on. Talks - Slides and details from my speaking engagements Posts that are mostly interesting content from around the tubes that I wanted to keep long term.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://graysonwalters.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://graysonwalters.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaking Engagements</title>
+      <link>http://graysonwalters.com/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://graysonwalters.com/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://graysonwalters.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://graysonwalters.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://graysonwalters.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://graysonwalters.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://graysonwalters.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://graysonwalters.com/home/about/</guid>
+      <description>Biography Grayson Walters has over 20 years of Information Technology and Information Security experience. Currently, he serves as the Information Security Officer for the Virginia Department of Taxation. Previously, Grayson served as the Information Security Officer for the Virginia State Corporation Commission. His prior positions include leading the security engineering branch of a Richmond based IT consulting firm where he oversaw penetration testing, security policy development and security product implementation activities for dozens of clients.</description>
+    </item>
+    
+    <item>
+      <title>Reading List!</title>
+      <link>http://graysonwalters.com/home/reading/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://graysonwalters.com/home/reading/</guid>
+      <description>Here is a collection of sources that I found to be worth the time to check out. If I see a good post somewhere, it lands in the post section, regardless of where I found it. If I start seeing a bunch of good posts, I will put the parent site here when I get around to it&amp;hellip;
+ Infosec Sites  https://tisiphone.net/ &amp;ndash; @hacks4pancakes &amp;ndash; Lesley Carhart https://danielmiessler.com/ &amp;ndash; @danielmiessler &amp;ndash; Daniel Miessler   </description>
+    </item>
     
   </channel>
 </rss>
