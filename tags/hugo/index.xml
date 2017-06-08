@@ -6,11 +6,9 @@
     <description>Recent content in Hugo on @GrandomThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016-2017 Grayson Walters..</copyright>
+    <copyright>&amp;copy; 2016-2017 Grayson Walters</copyright>
     <lastBuildDate>Tue, 06 Jun 2017 13:25:50 -0400</lastBuildDate>
-    
-	<atom:link href="https://graysonwalters.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/hugo/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New site; Oooh, Shiny</title>
@@ -18,7 +16,20 @@
       <pubDate>Tue, 06 Jun 2017 13:25:50 -0400</pubDate>
       
       <guid>https://graysonwalters.com/post/self_newsite/</guid>
-      <description>I&amp;rsquo;ve updated the site. So, look, the old site was a ton of work to manage, and I don&amp;rsquo;t even think my mom was reading it. At any rate, I recently saw a few mentions of Hugo. I finally took the time to dig into it, and I really like the way it works. Basically, it is a static site generator. No more php. No more fiddly cms to deal with.</description>
+      <description>
+
+&lt;h2 id=&#34;i-ve-updated-the-site&#34;&gt;I&amp;rsquo;ve updated the site.&lt;/h2&gt;
+
+&lt;h6 id=&#34;so-look-the-old-site-was-a-ton-of-work-to-manage-and-i-don-t-even-think-my-mom-was-reading-it-at-any-rate-i-recently-saw-a-few-mentions-of-hugo-http-gohugo-io-i-finally-took-the-time-to-dig-into-it-and-i-really-like-the-way-it-works-basically-it-is-a-static-site-generator-no-more-php-no-more-fiddly-cms-to-deal-with-i-m-hoping-that-it-will-drastically-reduce-the-overhead-on-the-site-and-therefore-stop-my-saying-hmm-this-is-cool-i-should-put-it-on-the-site-nah-too-much-work-retweet-instead-i-m-also-using-the-academic-theme-http-themes-gohugo-io-academic&#34;&gt;So, look, the old site was a ton of work to manage, and I don&amp;rsquo;t even think my mom was reading it.  At any rate, I recently saw a few mentions of &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.  I finally took the time to dig into it, and I really like the way it works.  Basically, it is a static site generator.  No more php.  No more fiddly cms to deal with.  I&amp;rsquo;m hoping that it will drastically reduce the overhead on the site, and therefore stop my saying, &amp;ldquo;Hmm this is cool, I should put it on the site.  Nah, too much work.  Retweet instead&amp;rdquo;.  I&amp;rsquo;m also using the &lt;a href=&#34;http://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34;&gt;Academic Theme&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h6 id=&#34;i-have-started-going-through-old-posts-and-am-pulling-the-ones-that-actually-have-current-value-to-the-new-site-i-also-got-all-motivated-and-did-some-back-posts-that-were-in-the-too-much-work-just-retweet-category-at-the-time&#34;&gt;I have started going through old posts and am pulling the ones that actually have current value to the new site.  I also got all motivated and did some back posts that were in the &amp;ldquo;too much work, just retweet&amp;rdquo; category at the time.&lt;/h6&gt;
+
+&lt;h6 id=&#34;side-note-there-wasn-t-an-easy-way-to-migrate-date-information-from-the-old-posts-i-went-ahead-and-pulled-the-dates-from-more-recent-articles-but-hey-it-goes-right-back-to-the-overhead-the-rest-i-put-in-a-roughly-chronological-order-for-the-back-posts-i-dated-them-to-coincide-with-the-social-media-share-let-s-call-all-of-the-dates-a-best-effort&#34;&gt;Side note: There wasn&amp;rsquo;t an easy way to migrate date information from the old posts.  I went ahead and pulled the dates from more recent articles, but hey, it goes right back to the overhead.  The rest I put in a roughly chronological order. For the back posts I dated them to coincide with the social media share.  Let&amp;rsquo;s call all of the dates a best effort.&lt;/h6&gt;
+
+&lt;h4 id=&#34;related-posts&#34;&gt;Related Posts&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tags/hugo/&#34; target=&#34;_blank&#34;&gt;Posts tagged Hugo &lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
