@@ -1,2 +1,0 @@
-# grandomthoughts.github.io
-Website
