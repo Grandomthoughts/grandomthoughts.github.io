@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on @GrandomThoughts</title>
-    <link>https://graysonwalters.com/publication/</link>
+    <link>http://graysonwalters.com/publication/</link>
     <description>Recent content in Publications on @GrandomThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Cyberthreat Recognition &amp; Mitigation</title>
-      <link>https://graysonwalters.com/publication/cyberthreat/</link>
+      <link>http://graysonwalters.com/publication/cyberthreat/</link>
       <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwalters.com/publication/cyberthreat/</guid>
+      <guid>http://graysonwalters.com/publication/cyberthreat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Cyber Threats</title>
-      <link>https://graysonwalters.com/publication/understandingcyberthreats/</link>
+      <link>http://graysonwalters.com/publication/understandingcyberthreats/</link>
       <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwalters.com/publication/understandingcyberthreats/</guid>
+      <guid>http://graysonwalters.com/publication/understandingcyberthreats/</guid>
       <description></description>
     </item>
     

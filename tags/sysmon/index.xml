@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sysmon on @GrandomThoughts</title>
-    <link>https://graysonwalters.com/tags/sysmon/</link>
+    <link>http://graysonwalters.com/tags/sysmon/</link>
     <description>Recent content in Sysmon on @GrandomThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Errata Security - How to track that annoying pop-up</title>
-      <link>https://graysonwalters.com/post/errata_security_sysmon/</link>
+      <link>http://graysonwalters.com/post/errata_security_sysmon/</link>
       <pubDate>Sat, 03 Jun 2017 10:33:50 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/errata_security_sysmon/</guid>
+      <guid>http://graysonwalters.com/post/errata_security_sysmon/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>SwiftonSecurity - sysmon-config</title>
-      <link>https://graysonwalters.com/post/swiftonsecurity_sysmon-config/</link>
+      <link>http://graysonwalters.com/post/swiftonsecurity_sysmon-config/</link>
       <pubDate>Mon, 22 May 2017 10:57:18 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/swiftonsecurity_sysmon-config/</guid>
+      <guid>http://graysonwalters.com/post/swiftonsecurity_sysmon-config/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -70,10 +70,10 @@
     
     <item>
       <title>Mark Russinovich - Tracking Hackers on Your Network with Sysinternals Sysmon</title>
-      <link>https://graysonwalters.com/post/markrussinovich_sysmon/</link>
+      <link>http://graysonwalters.com/post/markrussinovich_sysmon/</link>
       <pubDate>Sat, 12 Mar 2016 13:10:14 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/markrussinovich_sysmon/</guid>
+      <guid>http://graysonwalters.com/post/markrussinovich_sysmon/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;

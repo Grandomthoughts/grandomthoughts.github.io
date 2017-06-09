@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>This Site on @GrandomThoughts</title>
-    <link>https://graysonwalters.com/tags/this-site/</link>
+    <link>http://graysonwalters.com/tags/this-site/</link>
     <description>Recent content in This Site on @GrandomThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>New site; Oooh, Shiny</title>
-      <link>https://graysonwalters.com/post/self_newsite/</link>
+      <link>http://graysonwalters.com/post/self_newsite/</link>
       <pubDate>Tue, 06 Jun 2017 13:25:50 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/self_newsite/</guid>
+      <guid>http://graysonwalters.com/post/self_newsite/</guid>
       <description>
 
 &lt;h2 id=&#34;i-ve-updated-the-site&#34;&gt;I&amp;rsquo;ve updated the site.&lt;/h2&gt;

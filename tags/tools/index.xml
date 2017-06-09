@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on @GrandomThoughts</title>
-    <link>https://graysonwalters.com/tags/tools/</link>
+    <link>http://graysonwalters.com/tags/tools/</link>
     <description>Recent content in Tools on @GrandomThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Blackhat Arsenal Tools</title>
-      <link>https://graysonwalters.com/post/blackhat_arsenal/</link>
+      <link>http://graysonwalters.com/post/blackhat_arsenal/</link>
       <pubDate>Fri, 02 Jun 2017 15:54:36 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/blackhat_arsenal/</guid>
+      <guid>http://graysonwalters.com/post/blackhat_arsenal/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;

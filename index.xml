@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@GrandomThoughts on @GrandomThoughts</title>
-    <link>https://graysonwalters.com/</link>
+    <link>http://graysonwalters.com/</link>
     <description>Recent content in @GrandomThoughts on @GrandomThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>Pentest on a Shoestring Budget</title>
-      <link>https://graysonwalters.com/talk/pentestonashoestring/</link>
+      <link>http://graysonwalters.com/talk/pentestonashoestring/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwalters.com/talk/pentestonashoestring/</guid>
+      <guid>http://graysonwalters.com/talk/pentestonashoestring/</guid>
       <description>&lt;p&gt;Slides to be posted after conference.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New site; Oooh, Shiny</title>
-      <link>https://graysonwalters.com/post/self_newsite/</link>
+      <link>http://graysonwalters.com/post/self_newsite/</link>
       <pubDate>Tue, 06 Jun 2017 13:25:50 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/self_newsite/</guid>
+      <guid>http://graysonwalters.com/post/self_newsite/</guid>
       <description>
 
 &lt;h2 id=&#34;i-ve-updated-the-site&#34;&gt;I&amp;rsquo;ve updated the site.&lt;/h2&gt;
@@ -44,10 +44,10 @@
     
     <item>
       <title>Announcing Google Capture the Flag 2017</title>
-      <link>https://graysonwalters.com/post/google_ctf-2017/</link>
+      <link>http://graysonwalters.com/post/google_ctf-2017/</link>
       <pubDate>Tue, 06 Jun 2017 11:07:34 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/google_ctf-2017/</guid>
+      <guid>http://graysonwalters.com/post/google_ctf-2017/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -68,10 +68,10 @@
     
     <item>
       <title>POLICY ON FOOD PROVISIONING AT MEETINGS</title>
-      <link>https://graysonwalters.com/post/texas_securitypolicy/</link>
+      <link>http://graysonwalters.com/post/texas_securitypolicy/</link>
       <pubDate>Tue, 06 Jun 2017 00:05:53 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/texas_securitypolicy/</guid>
+      <guid>http://graysonwalters.com/post/texas_securitypolicy/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -100,10 +100,10 @@ Therefore, it is the policy of the Information Security Office that all meetings
     
     <item>
       <title>Errata Security - How to track that annoying pop-up</title>
-      <link>https://graysonwalters.com/post/errata_security_sysmon/</link>
+      <link>http://graysonwalters.com/post/errata_security_sysmon/</link>
       <pubDate>Sat, 03 Jun 2017 10:33:50 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/errata_security_sysmon/</guid>
+      <guid>http://graysonwalters.com/post/errata_security_sysmon/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -128,10 +128,10 @@ Therefore, it is the policy of the Information Security Office that all meetings
     
     <item>
       <title>Blackhat Arsenal Tools</title>
-      <link>https://graysonwalters.com/post/blackhat_arsenal/</link>
+      <link>http://graysonwalters.com/post/blackhat_arsenal/</link>
       <pubDate>Fri, 02 Jun 2017 15:54:36 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/blackhat_arsenal/</guid>
+      <guid>http://graysonwalters.com/post/blackhat_arsenal/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -159,10 +159,10 @@ Most of the selected tools are already present on GitHub and some are yet to be 
     
     <item>
       <title>SwiftonSecurity - sysmon-config</title>
-      <link>https://graysonwalters.com/post/swiftonsecurity_sysmon-config/</link>
+      <link>http://graysonwalters.com/post/swiftonsecurity_sysmon-config/</link>
       <pubDate>Mon, 22 May 2017 10:57:18 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/swiftonsecurity_sysmon-config/</guid>
+      <guid>http://graysonwalters.com/post/swiftonsecurity_sysmon-config/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -189,29 +189,29 @@ Most of the selected tools are already present on GitHub and some are yet to be 
     
     <item>
       <title>Cyberthreat Recognition &amp; Mitigation</title>
-      <link>https://graysonwalters.com/publication/cyberthreat/</link>
+      <link>http://graysonwalters.com/publication/cyberthreat/</link>
       <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwalters.com/publication/cyberthreat/</guid>
+      <guid>http://graysonwalters.com/publication/cyberthreat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security Leaders Panel</title>
-      <link>https://graysonwalters.com/talk/covinfosec2016/</link>
+      <link>http://graysonwalters.com/talk/covinfosec2016/</link>
       <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwalters.com/talk/covinfosec2016/</guid>
+      <guid>http://graysonwalters.com/talk/covinfosec2016/</guid>
       <description>&lt;p&gt;This was a panel with a handful of ISOs from Commonwealth Agencies addressing the current concerns and efforts that make up public sector security.  No slides were used.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mark Russinovich - Tracking Hackers on Your Network with Sysinternals Sysmon</title>
-      <link>https://graysonwalters.com/post/markrussinovich_sysmon/</link>
+      <link>http://graysonwalters.com/post/markrussinovich_sysmon/</link>
       <pubDate>Sat, 12 Mar 2016 13:10:14 -0400</pubDate>
       
-      <guid>https://graysonwalters.com/post/markrussinovich_sysmon/</guid>
+      <guid>http://graysonwalters.com/post/markrussinovich_sysmon/</guid>
       <description>
 
 &lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
@@ -256,28 +256,28 @@ Most of the selected tools are already present on GitHub and some are yet to be 
     
     <item>
       <title>The “New Norm” in Cyber Security: What’s Trending Now in Public Sector</title>
-      <link>https://graysonwalters.com/talk/newnorm/</link>
+      <link>http://graysonwalters.com/talk/newnorm/</link>
       <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwalters.com/talk/newnorm/</guid>
+      <guid>http://graysonwalters.com/talk/newnorm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Cyber Threats</title>
-      <link>https://graysonwalters.com/publication/understandingcyberthreats/</link>
+      <link>http://graysonwalters.com/publication/understandingcyberthreats/</link>
       <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwalters.com/publication/understandingcyberthreats/</guid>
+      <guid>http://graysonwalters.com/publication/understandingcyberthreats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intelligence Community Analyst Private Sector Partnership</title>
-      <link>https://graysonwalters.com/project/icanalyst/</link>
+      <link>http://graysonwalters.com/project/icanalyst/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwalters.com/project/icanalyst/</guid>
+      <guid>http://graysonwalters.com/project/icanalyst/</guid>
       <description>&lt;p&gt;This program enables intelligence community analysts and private sector partners to gain a greater understanding of how their disparate, yet complementary, roles can work in tandem to ensure mission success.  The public-private teams collaborate for six months to work on unclassified analytic deliverables of interest to the IC and private sector. Federal as well as State, Local, Tribal, and Territorial analysts and private sector analysts apply on a volunteer basis to participate in this effort.&lt;/p&gt;
 
 &lt;p&gt;Each year, the Program focuses on different topics selected based on input from the IC and key private sector partners. Topics change year-to-year to reflect national security developments. The 2014 program focused on:&lt;/p&gt;
@@ -295,19 +295,19 @@ Most of the selected tools are already present on GitHub and some are yet to be 
 For publications I worked on see:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://graysonwalters.com/publication/understandingcyberthreats/&#34; target=&#34;_blank&#34;&gt;Understanding Cyber Threats&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://graysonwalters.com/publication/understandingcyberthreats/&#34; target=&#34;_blank&#34;&gt;Understanding Cyber Threats&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://graysonwalters.com/publication/cyberthreat/&#34; target=&#34;_blank&#34;&gt;Cyber Threat Recognition &amp;amp; Mitigation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://graysonwalters.com/publication/cyberthreat/&#34; target=&#34;_blank&#34;&gt;Cyber Threat Recognition &amp;amp; Mitigation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Emerging Threats</title>
-      <link>https://graysonwalters.com/talk/vcurisc2012/</link>
+      <link>http://graysonwalters.com/talk/vcurisc2012/</link>
       <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwalters.com/talk/vcurisc2012/</guid>
+      <guid>http://graysonwalters.com/talk/vcurisc2012/</guid>
       <description>
 
 &lt;blockquote&gt;
