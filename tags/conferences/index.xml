@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences on @GrandomThoughts</title>
+    <link>http://graysonwalters.com/tags/conferences/</link>
+    <description>Recent content in Conferences on @GrandomThoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016-2017 Grayson Walters</copyright>
+    <lastBuildDate>Mon, 12 Jun 2017 11:26:37 -0400</lastBuildDate>
+    <atom:link href="/tags/conferences/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wrapping up my take on RVASec 2016</title>
+      <link>http://graysonwalters.com/post/rvasec2016/</link>
+      <pubDate>Mon, 12 Jun 2017 11:26:37 -0400</pubDate>
+      
+      <guid>http://graysonwalters.com/post/rvasec2016/</guid>
+      <description>
+
+&lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
+
+&lt;h6 id=&#34;rvasec-is-really-turning-into-a-great-conference-each-year-the-team-adds-a-little-something-to-improve-it-mikko-mikko-hypponen-gave-the-keynote-and-as-expected-it-was-very-informative-and-had-plenty-of-humor-as-well-i-saw-some-great-talks-danielhbohannon-did-one-on-invoke-cradlecrafer-which-stood-out-to-me-i-also-enjoyed-the-managing-crowdsourced-security-testing-talk-that-codexwebsecurum-mike-shema-gave-wojeblaze-troy-wojewoda-and-0xderuke-derek-banks-did-a-presentation-on-using-open-source-tools-on-the-blue-team-to-catch-the-kinds-of-attack-techniques-used-by-red-team-finally-jake-smith-and-roman-bohuk-did-a-concise-job-of-summing-up-the-issues-with-preparing-the-next-generation-of-security-specialists-their-perspective-was-interesting-especially-since-they-are-both-in-high-school-i-look-forward-to-catching-a-few-more-once-they-are-posted-online&#34;&gt;RVASec is really turning into a great conference.  Each year the team adds a little something to improve it.  @mikko Mikko Hypponen gave the keynote, and as expected it was very informative, and had plenty of humor as well.  I saw some great talks, @danielhbohannon did one on Invoke-CradleCrafer, which stood out to me.  I also enjoyed the Managing Crowdsourced Security Testing talk that @CodexWebSecurum (Mike Shema) gave.  @wojeblaze (Troy Wojewoda) and @0xderuke (Derek Banks) did a presentation on using open-source tools on the blue team to catch the kinds of attack techniques used by red team.  Finally, Jake Smith and Roman Bohuk did a concise job of summing up the issues with preparing the next generation of security specialists.  Their perspective was interesting especially since they are both in high school.  I look forward to catching a few more once they are posted online.&lt;/h6&gt;
+
+&lt;h6 id=&#34;the-ctf-was-well-executed-and-is-one-of-my-favorites-new-lesson-learned-if-there-is-a-file-run-strings-on-it-every-time-first-thing-no-matter-what&#34;&gt;The CTF was well executed, and is one of my favorites.  New lesson learned.  If there is a file, run strings on it every time, first thing, no matter what.&lt;/h6&gt;
+
+&lt;h6 id=&#34;last-but-not-least-the-team-at-http-hackrva-org-deserve-a-round-of-applause-for-the-badges-makes-me-want-to-wear-a-32bit-computer-around-my-neck-everyday-i-mean-seriously-when-do-i-get-my-communicator-badge&#34;&gt;Last but not least, the team at &lt;a href=&#34;http://hackrva.org/&#34; target=&#34;_blank&#34;&gt;http://hackrva.org/&lt;/a&gt; deserve a round of applause for the badges.  Makes me want to wear a 32bit computer around my neck everyday.  I mean seriously, when do I get my communicator badge?&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://rvasec.com&#34; target=&#34;_blank&#34;&gt;RVASec Site&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;related-posts&#34;&gt;Related Posts&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://graysonwalters.com/tags/conferences&#34; target=&#34;_blank&#34;&gt;Posts tagged Conferences&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

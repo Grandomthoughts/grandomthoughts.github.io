@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://graysonwalters.com/post/rvasec2016/</loc>
+      <lastmod>2017-06-12T11:26:37-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://graysonwalters.com/post/kaliinaws/</loc>
       <lastmod>2017-06-11T21:13:27-04:00</lastmod>
     </url>
@@ -227,6 +236,16 @@
     <url>
     
       <loc>http://graysonwalters.com/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://graysonwalters.com/tags/conferences/</loc>
+      <lastmod>2017-06-12T11:26:37-04:00</lastmod>
       <priority>0</priority>
     </url>
     
