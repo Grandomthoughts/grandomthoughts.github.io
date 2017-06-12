@@ -7,8 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2017 Grayson Walters</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 15:54:36 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2017 21:13:27 -0400</lastBuildDate>
     <atom:link href="/tags/tools/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kali in AWS for free</title>
+      <link>http://graysonwalters.com/post/kaliinaws/</link>
+      <pubDate>Sun, 11 Jun 2017 21:13:27 -0400</pubDate>
+      
+      <guid>http://graysonwalters.com/post/kaliinaws/</guid>
+      <description>
+
+&lt;h2 id=&#34;my-take&#34;&gt;My take -&lt;/h2&gt;
+
+&lt;h6 id=&#34;irfan-shakeel-over-on-the-alienvault-blog-shows-step-by-step-how-to-fire-up-a-kali-image-in-aws-under-the-free-tier-this-is-faster-than-fiddling-with-your-router-settings-and-safer-too&#34;&gt;Irfan Shakeel over on the Alienvault blog shows step by step how to fire up a kali image in aws under the free tier.  This is faster than fiddling with your router settings, and safer too.&lt;/h6&gt;
+
+&lt;blockquote&gt;
+&lt;h2 id=&#34;configuring-kali-linux-on-amazon-aws-cloud-for-free&#34;&gt;&amp;ldquo;Configuring Kali Linux on Amazon AWS Cloud for free&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;The best possible way to accomplish your objective is to host Kali Linux in the cloud, where the vendor manages the network and server, so you can focus on your pentesting. Plus it&amp;rsquo;s FREE!&amp;hellip;
+In this article, we will talk about the steps to configure Kali Linux on Amazon AWS cloud for free.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.alienvault.com/blogs/security-essentials/configuring-kali-linux-on-amazon-aws-cloud-for-free?utm_medium=Social&amp;amp;utm_source=Twitter&amp;amp;utm_content=Awareness&#34; target=&#34;_blank&#34;&gt;Original Article&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;related-posts&#34;&gt;Related Posts&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://graysonwalters.com/tags/tools&#34; target=&#34;_blank&#34;&gt;Posts tagged tools&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blackhat Arsenal Tools</title>
